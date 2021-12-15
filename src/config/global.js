@@ -187,92 +187,118 @@ export default {
   },
   referencias: [
     {
-      referencia:
-        'Capriotti, P. (2009). <i>Branding</i> corporativo. Fundamentos para la gestión estratégica de la identidad corporativa. Colección de Libros de la Empresa.',
-      link: 'http://www.analisisdemedios.com/branding/BrandingCorporativo.pdf',
-    },
-    {
-      referencia:
-        'Fernández, F. (2012). Imágenes con 1, 2 y 3 puntos de fuga. Dibujando. ',
+      referencia: 'Adobe. (2020). Rasterizado y vectorizado. ',
       link:
-        'https://dibujando.net/tutorial/perspectiva/imagenes-con-1-2-y-hasta-3-puntos-de-fuga-32718',
+        'https://helpx.adobe.com/es/photoshop-elements/key-concepts/raster-vector.html',
     },
     {
-      referencia:
-        'García, H. (2017). Ilustración publicitaria. Ilustrando en la escuela de arte. ',
+      referencia: 'Álvarez, M. (2019). Herramientas principales de Photoshop',
       link:
-        'http://ilustrandoenlaescueladearte.blogspot.com/2014/10/ilustracion-publicitaria.html',
+        'https://desarrolloweb.com/articulos/herrameintas-principales-photoshop.html',
+    },
+    {
+      referencia: 'EcuRed. (2020). Adobe Photoshop Lightro',
+      link: 'https://www.ecured.cu/Adobe_Photoshop_Lightroom',
+    },
+    {
+      referencia: 'Fotoversia (2019). Interfaz de Photoshop',
+      link: 'https://fotoversia.com/la-interfaz-de-photoshop',
     },
     {
       referencia:
-        'Menza, A., Sierra, E. y Sánchez, W. (2016). La ilustración: dilucidación y proceso creativo. Revista KEPES, 13(13), p. 265-296.',
-      link: 'http://vip.ucaldas.edu.co/kepes/downloads/Revista13_12.pdf',
-    },
-    {
-      referencia:
-        'Moreno, J. (2021). ¿Cómo crear un manual de identidad corporativa paso a paso? HubSpot. ',
+        'González, A. (2016) Photoshop. Los 14 retoques más fáciles que te van a dar mejor resultado para editar fotos',
       link:
-        'https://blog.hubspot.es/marketing/branding-e-identidad-corporativa-guias-de-estilo',
+        'https://www.xataka.com/fotografia-y-video/los-14-retoques-mas-faciles-de-photoshop-que-te-van-a-dar-mejor-resultado-para-editar-fotos',
     },
     {
-      referencia: 'Sosa, A. (2020). Tipos de <i>Branding</i>. Grupo Endor.',
-      link: 'https://www.grupoendor.com/tipos-de-branding/',
+      referencia:
+        'Gomez, F. (2015) Técnicas avanzadas de retoque fotográfico profesional',
+      link:
+        'https://www.deustoformacion.com/blog/diseno-produccion-audiovisual/tecnicas-avanzadas-retoque-fotografico-profesional',
+    },
+    {
+      referencia: 'Ionos. (2021). Qué es un píxel',
+      link:
+        'https://www.ionos.es/digitalguide/paginas-web/diseno-web/que-es-un-pixel/',
+    },
+    {
+      referencia:
+        'Lana, J. (2021). Puedes crear imágenes surrealistas mediante el fotomontaje digital',
+      link:
+        'https://www.adobe.com/la/creativecloud/photography/discover/photomontage.html',
+    },
+    {
+      referencia: 'Lucidchart. (2021). Qué es un wireframe para un sitio web',
+      link:
+        'https://www.lucidchart.com/pages/es/que-es-un-wireframe-para-un-sitio-web',
+    },
+    {
+      referencia: 'Mora, J. (2020). La interfaz de Photoshop',
+      link:
+        'https://www.fotoaprendizaje.com/borrador-automaticoelementos-mas-importantes-de-photoshop/#Panel_de_herramientas',
+    },
+    {
+      referencia: 'Ojeda, J. (2016). Fotografía para principiantes',
+      link:
+        'http://fotografiaparaprincipianntes.blogspot.com/2016/06/las-mascaras-en-photoshop.html',
+    },
+    {
+      referencia: 'Pérez, J y Merino, M. (2014). Interfaz',
+      link: 'https://definicion.de/interfaz/',
+    },
+    {
+      referencia: 'Significados. (2015). Significado de interfaz',
+      link: 'https://www.significados.com/interfaz/',
+    },
+    {
+      referencia: 'Sistemas.com. (2021). Definición de aplicación',
+      link: 'https://sistemas.com/aplicacion.php',
+    },
+    {
+      referencia: 'Workana (2020). Cómo crear una app: alcance del proyecto',
+      link:
+        'https://blog.workana.com/emprendimiento/como-crear-una-app-alcance-del-proyecto/',
     },
   ],
   glosario: [
     {
-      termino: 'Análoga',
-      significado: 'que tiene analogía con algo.',
+      termino: 'Aplicación ',
+      significado:
+        'también llamada app es simplemente un programa informático creado para llevar a cabo o facilitar una tarea en un dispositivo informático (Sistemas.com, 2021).',
     },
     {
-      termino: '<i>Branding</i>',
+      termino: 'Interfaz',
       significado:
-        'hace referencia al proceso para construir y gestionar una marca, se vincula en forma directa o indirecta al nombre y/o símbolo (logotipo) que la identifican, la hacen única y competitiva.',
+        'término que procede del vocablo inglés interfaz. En informática, esta noción sirve para señalar a la conexión que se da de manera física y a nivel de utilidad entre dispositivos o sistemas (Pérez y Merino, 2011, actualizado 2014).',
     },
     {
-      termino: 'Editorial',
+      termino: 'Lightroom ',
       significado:
-        'corresponde a un artículo que expresa la opinión sobre un tema determinado, generalmente de interés público, a través de un medio de comunicación como el periódico o la revista',
+        'programa que hace parte de la suite de Adobe Company creado para el tratamiento de imágenes digitales, con este programa se logra realizar los procesos de revelado, tratamiento y flujo de trabajo de imágenes (Adobe Company, 2021).',
     },
     {
-      termino: 'Exponencial',
+      termino: 'Pixel',
       significado:
-        'relativo al crecimiento, que se incrementa cada vez más rápido.',
+        'o px, para abreviar, es el elemento más pequeño de una imagen reproducida digitalmente. En un monitor o en la pantalla de un teléfono móvil se suelen alinear varios píxeles en una trama. La combinación de varios píxeles constituye una imagen rasterizada (Ionos, 2021).',
     },
     {
-      termino: 'Marca',
+      termino: '<i>Wireframe</i>',
       significado:
-        'se entiende como una identificación comercial, conformada por atributos y valores que la hacen única.',
-    },
-    {
-      termino: 'Pantone',
-      significado:
-        '“Es un sistema de identificación de colores de impresión creado por la empresa Pantone”. Izquierdo, T. (2019). Diseño gráfico y <i>web</i>.',
-    },
-    {
-      termino: 'Publicidad',
-      significado:
-        'es una forma de comunicación con el propósito de presentar, divulgar o promocionar productos o servicios.',
+        'en un principio, el término <i>wireframe</i> significaba una representación visual de objetos tridimensionales, como aquellos empleados en el desarrollo y diseño de productos.',
     },
   ],
   complementario: [
     {
-      texto:
-        'Capriotti, P. (2009). <i>Branding</i> corporativo. Fundamentos para la gestión estratégica de la identidad corporativa. Colección de Libros de la Empresa.',
+      texto: 'Garrido, J. (2013). TFC Desarrollo de aplicaciones móviles. ',
       tipo: 'PDF',
-      descarga: '/downloads/BrandingCorporativo.pdf',
+      descarga: '/downloads/jugarridocoTFC0113memoria.pdf',
     },
     {
       texto:
-        'Notodoanimacion. (2020). Cómo Diseñar Personajes NIVEL DIOS (2 HORAS) Curso de Diseño y Creación de Personajes GRATIS [Video]. YouTube.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=QXEoH4AsnUE',
-    },
-    {
-      texto:
-        'Barba Batel. (2020). Tutorial básico de luces y sombras en el dibujo artístico [Video]. YouTube. ',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=ma8dsEsOh34',
+        'Adobe Company. (2021). Puedes crear imágenes surrealistas mediante el fotomontaje digital.',
+      tipo: 'Enlace',
+      link:
+        'https://www.adobe.com/la/creativecloud/photography/discover/photomontage.html',
     },
   ],
   creditos: {
@@ -291,32 +317,26 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Guillermo Eduardo González ',
+        nombre: 'Juan Manuel Reyes Ramírez ',
         cargo: 'Instructor experto temático',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital ',
       },
       {
-        nombre: 'Eduardo José Velasco',
-        cargo: 'Instructor experto temático',
-        centro:
-          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital ',
-      },
-      {
-        nombre: 'Adriana López',
+        nombre: 'Gloria Amparo López Escudero',
         cargo: 'Diseñadora instruccional',
         centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
-        nombre: 'Ana Catalina Córdoba Sus',
+        nombre: 'Andrés Felipe Velandia Espitia',
         cargo: 'Revisor metodológico y pedagógico',
-        centro:
-          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital ',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital ',
       },
       {
-        nombre: 'Darío González',
+        nombre: 'José Gabriel Ortiz Abella',
         cargo: 'Corrección de estilo',
-        centro: 'Centro Agropecuario La Granja - Regional Tolima ',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital ',
       },
     ],
     desarrolloProducto: [
@@ -356,7 +376,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Jhana Johanna Bustillo Ardila',
+        nombre: '',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
