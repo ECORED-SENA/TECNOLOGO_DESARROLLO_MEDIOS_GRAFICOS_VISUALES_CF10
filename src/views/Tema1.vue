@@ -81,7 +81,7 @@
             p A continuación, observe el video tutorial <b>Interfaz de Photoshop</b>, con el fin de que tenga una mayor contextualización de este tema.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ymSqw_W2vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4nH4L0G0ncA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Ahora, encontrará algunas de las herramientas importantes de Photoshop y sus funciones: 
     .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
       h4.mb-0.me-3 Herramienta capas
@@ -109,7 +109,7 @@
             p Observe el video <b>Pincel</b>, con el fin de que tenga una mayor contextualización de la forma de utilización que esta herramienta le brinda.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ymSqw_W2vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/kAvP-bzDmZM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     #t_1_2.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.2 Espacio y área de trabajo
     p.mb-5 Al crear un documento en Photoshop, en lugar de comenzar con un lienzo en blanco, es posible elegir entre una gran variedad de plantillas, incluidas las de Adobe Stock. Las plantillas ofrecen recursos e ilustraciones en las que basarse para completar un proyecto. Para ver al detalle este importante tema, se sugiere revisar el siguiente video:         
@@ -284,7 +284,7 @@
           p A continuación, observe el video Color para una mejor contextualización de la importancia de esta herramienta, sus funciones, características, modos de uso, entre otros.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ymSqw_W2vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/UHFojBUqYH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.5 Monocromo, duotono, tritono, cuatritono
     p.mb-5 El modelo de color duotono, permite realizar imágenes en monótonos (dos colores), tritonos (tres colores) y cuatritonos (cuatro colores). 
@@ -497,7 +497,7 @@
           p A continuación, observe el video Pluma para una mejor contextualización de su importancia, sus elementos, características entre otros, y su aplicación.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ymSqw_W2vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4NgovY58BQU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mb-5.align-items-center
       .col-lg-2: img(src="@/assets/curso/35.svg" style="width: 201px").m-auto.mb-3.mb-lg-0
       .col-lg-7.col-
