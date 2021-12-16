@@ -20,10 +20,10 @@
           |Haciendo una comparación o analizando cada lenguaje en estas clases de apps, se puede decir que aprovechan la mayoría de funciones de los dispositivos, también tiene una característica muy favorable por que se pueden utilizar offline. Una de sus debilidades es que los procesos de actualización se tornan costosos. 
       .tarjeta.bg--2-claro.p-3(x="67%" y="30%" numero="")
         .h5.mb-2 Híbridas
-        p Estas aplicaciones reciben este nombre ya que fusionan aspectos de las nativas y de aplicaciones web con finalidades específicas. Estas aplicaciones son desarrolladas a partir de lenguajes de programación CSS y HTML, esto las hace versátiles ya que se logran adaptar a cualquier sistema operativo y permiten el acceso a todas las funcionalidades de los dispositivos.
+        p Estas aplicaciones reciben este nombre ya que fusionan aspectos de las nativas y de aplicaciones <i>web</i> con finalidades específicas. Estas aplicaciones son desarrolladas a partir de lenguajes de programación CSS y HTML, esto las hace versátiles ya que se logran adaptar a cualquier sistema operativo y permiten el acceso a todas las funcionalidades de los dispositivos.
       .tarjeta.bg--2-claro.p-3(x="64%" y="60%" numero="")
-        .h5.mb-2 Web
-        p La mayoría de aplicaciones web son desarrolladas a partir de los lenguajes de programación CSS, HTML y JavaScript que son muy conocidos en el mundo.
+        .h5.mb-2 <i>Web</i>
+        p La mayoría de aplicaciones <i>web</i> son desarrolladas a partir de los lenguajes de programación CSS, HTML y JavaScript que son muy conocidos en el mundo.
       .tarjeta.bg--2-claro.p-3(x="51%" y="83%" numero="")
         .h5.mb-2 Multiplataforma
         p Estas plataformas hacen honor a su nombre, pues poseen una característica propia que le permiten disminuir costos y tiempo de desarrollo, en la actualidad tienen bastante demanda por desarrolladores ya que se logran adaptar muy fácil a las diferentes plataformas. Tiene una desventaja que no logran aprovechar todas las funciones de un dispositivo móvil o tablet.
@@ -72,7 +72,7 @@
             li 
               i.fas.fa-check
               | Cuenta con soporte para un sin número de multimedia.
-            p La compañía Apple se caracteriza por ser la única que pone a disposición sus herramientas de hardware y de software en el proceso de desarrollo de aplicaciones para este sistema operativo.
+            p La compañía Apple se caracteriza por ser la única que pone a disposición sus herramientas de hardware y de <i>software</i> en el proceso de desarrollo de aplicaciones para este sistema operativo.
         .col-md-2
           figure
             img(src='@/assets/curso/49.png', alt='Texto que describa la imagen')

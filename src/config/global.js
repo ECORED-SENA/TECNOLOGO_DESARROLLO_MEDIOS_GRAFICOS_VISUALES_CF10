@@ -159,6 +159,17 @@ export default {
     ],
     subMenu: [
       {
+        icono: 'fas fa-sitemap',
+        titulo: 'Sintesis',
+        nombreRuta: 'sintesis',
+      },
+      {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
+      {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
@@ -192,70 +203,70 @@ export default {
         'https://helpx.adobe.com/es/photoshop-elements/key-concepts/raster-vector.html',
     },
     {
-      referencia: 'Álvarez, M. (2019). Herramientas principales de Photoshop',
+      referencia: 'Álvarez, M. (2019). Herramientas principales de Photoshop.',
       link:
         'https://desarrolloweb.com/articulos/herrameintas-principales-photoshop.html',
     },
     {
-      referencia: 'EcuRed. (2020). Adobe Photoshop Lightro',
+      referencia: 'EcuRed. (2020). Adobe Photoshop Lightroom.',
       link: 'https://www.ecured.cu/Adobe_Photoshop_Lightroom',
     },
     {
-      referencia: 'Fotoversia (2019). Interfaz de Photoshop',
+      referencia: 'Fotoversia (2019). Interfaz de Photoshop.',
       link: 'https://fotoversia.com/la-interfaz-de-photoshop',
     },
     {
       referencia:
-        'González, A. (2016) Photoshop. Los 14 retoques más fáciles que te van a dar mejor resultado para editar fotos',
+        'González, A. (2016) Photoshop. Los 14 retoques más fáciles que te van a dar mejor resultado para editar fotos.',
       link:
         'https://www.xataka.com/fotografia-y-video/los-14-retoques-mas-faciles-de-photoshop-que-te-van-a-dar-mejor-resultado-para-editar-fotos',
     },
     {
       referencia:
-        'Gomez, F. (2015) Técnicas avanzadas de retoque fotográfico profesional',
+        'Gomez, F. (2015) Técnicas avanzadas de retoque fotográfico profesional.',
       link:
         'https://www.deustoformacion.com/blog/diseno-produccion-audiovisual/tecnicas-avanzadas-retoque-fotografico-profesional',
     },
     {
-      referencia: 'Ionos. (2021). Qué es un píxel',
+      referencia: 'Ionos. (2021). Qué es un píxel.',
       link:
         'https://www.ionos.es/digitalguide/paginas-web/diseno-web/que-es-un-pixel/',
     },
     {
       referencia:
-        'Lana, J. (2021). Puedes crear imágenes surrealistas mediante el fotomontaje digital',
+        'Lana, J. (2021). Puedes crear imágenes surrealistas mediante el fotomontaje digital.',
       link:
         'https://www.adobe.com/la/creativecloud/photography/discover/photomontage.html',
     },
     {
-      referencia: 'Lucidchart. (2021). Qué es un wireframe para un sitio web',
+      referencia: 'Lucidchart. (2021). Qué es un wireframe para un sitio web.',
       link:
         'https://www.lucidchart.com/pages/es/que-es-un-wireframe-para-un-sitio-web',
     },
     {
-      referencia: 'Mora, J. (2020). La interfaz de Photoshop',
+      referencia: 'Mora, J. (2020). La interfaz de Photoshop.',
       link:
         'https://www.fotoaprendizaje.com/borrador-automaticoelementos-mas-importantes-de-photoshop/#Panel_de_herramientas',
     },
     {
-      referencia: 'Ojeda, J. (2016). Fotografía para principiantes',
+      referencia: 'Ojeda, J. (2016). Fotografía para principiantes.',
       link:
         'http://fotografiaparaprincipianntes.blogspot.com/2016/06/las-mascaras-en-photoshop.html',
     },
     {
-      referencia: 'Pérez, J y Merino, M. (2014). Interfaz',
+      referencia: 'Pérez, J y Merino, M. (2014). Interfaz.',
       link: 'https://definicion.de/interfaz/',
     },
     {
-      referencia: 'Significados. (2015). Significado de interfaz',
+      referencia: 'Significados. (2015). Significado de interfaz.',
       link: 'https://www.significados.com/interfaz/',
     },
     {
-      referencia: 'Sistemas.com. (2021). Definición de aplicación',
+      referencia: 'Sistemas.com. (2021). Definición de aplicación.',
       link: 'https://sistemas.com/aplicacion.php',
     },
     {
-      referencia: 'Workana (2020). Cómo crear una app: alcance del proyecto',
+      referencia: 'Workana (2020). Cómo crear una app: alcance del proyecto.',
       link:
         'https://blog.workana.com/emprendimiento/como-crear-una-app-alcance-del-proyecto/',
     },
@@ -370,13 +381,66 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Caceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Carlos Eduardo Garavito Parada',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Camilo Villamizar Lizcano',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Arnulfo Beltrán Mojica',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Jessica Moreno Realpe',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

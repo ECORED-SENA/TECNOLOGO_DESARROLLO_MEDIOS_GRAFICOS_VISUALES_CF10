@@ -104,12 +104,9 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/ymSqw_W2vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 4.2 Fotomontaje
+      h2 4.2 Efectos y retoque especiales
     p.mb-5 Los efectos como sombras, resplandores o biseles permiten cambiar la apariencia del contenido de una capa de forma no destructiva, los efectos de capa están enlazados con el contenido de la misma. Al mover o editar el contenido de la capa, se aplican los mismos efectos al contenido modificado. Por ejemplo, si aplica una sombra paralela a una capa de texto y añade más texto, se añade sombra de forma automática al texto nuevo. Ahora, se expone lo anterior de una manera más gráfica:
     SlyderD.mb-5(:datos="datosSlyder")
-    .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
-      h4.mb-0.me-3 Síntesis
-    img(src='@/assets/curso/96.jpg', alt='Texto que describa la imagen')
 
 
 

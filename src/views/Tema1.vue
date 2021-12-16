@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Software de retoque de imágenes
+      h1 <i>Software</i> de retoque de imágenes
     .row.mb-5.align-items-center
       .col-lg-7(data-aos="fade-right")
         p.mb-3 Photoshop es el nombre popular de un programa informático de edición de imágenes. Su nombre completo es Adobe Photoshop y está desarrollado por la empresa Adobe Systems Incorporated. Funciona en los sistemas operativos Apple Macintosh y Windows. El nombre comercial de este producto se puede traducir del inglés como “taller de fotos”; aunque existen otros programas similares como GIMP o PhotoPaint, en la cultura popular se utiliza esta palabra para referirse también al “retoque digital de una imagen".
           br
           br
-          |De acuerdo con la definición de interfaz que da el portal web Significados (2015), se indica lo siguiente: 
+          |De acuerdo con la definición de interfaz que da el portal <i>web</i> Significados (2015), se indica lo siguiente: 
       .col-lg-5.mt-lg-0.mt-3(data-aos="fade-left")
         .imagen-adornos-flotantes
           img(src="@/assets/curso/0.jpg" alt="Adornos flotantes")
@@ -24,7 +24,7 @@
           p.text-center “Es la conexión física y funcional que se establece entre dos aparatos, dispositivos o sistemas que funcionan independientemente uno del otro. En este sentido, la comunicación entre un ser humano y una computadora se realiza por medio de una interfaz”.
           .img(style=" position: absolute; bottom: -15%;  left: 0; width: 100%;  ")
             img(src="@/assets/curso/1.svg" alt="Adornos flotantes" style=" width: 70px").m-auto
-    p.mb-5 Si bien es cierto que existen diversidad de programas para el manejo y el uso de ilustración digital, Adobe es una de las empresas más importantes y especializadas en programas de software de diseño que integra muchas herramientas enfocadas a la ilustración, el video, el arte y la fotografía, entre otros.
+    p.mb-5 Si bien es cierto que existen diversidad de programas para el manejo y el uso de ilustración digital, Adobe es una de las empresas más importantes y especializadas en programas de <i>software</i> de diseño que integra muchas herramientas enfocadas a la ilustración, el video, el arte y la fotografía, entre otros.
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Interfaz de usuario y herramientas
     .row.mb-5.align-items-center
@@ -85,7 +85,7 @@
     p.mb-5 Ahora, encontrará algunas de las herramientas importantes de Photoshop y sus funciones: 
     .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
       h4.mb-0.me-3 Herramienta capas
-    p.mb-5 Las capas son un conjunto de opciones que contienen diferentes partes para conformar una imagen, una de las mejores opciones creadas por el software. Permite trabajar áreas diferentes de una imagen y apilarlas. Las capas son también fundamentales en Photoshop; todo se organiza en capas, que se pueden tratar de manera independiente. 
+    p.mb-5 Las capas son un conjunto de opciones que contienen diferentes partes para conformar una imagen, una de las mejores opciones creadas por el <i>software</i>. Permite trabajar áreas diferentes de una imagen y apilarlas. Las capas son también fundamentales en Photoshop; todo se organiza en capas, que se pueden tratar de manera independiente. 
       br
       br
       |El hecho de trabajar con capas ofrece mucha versatilidad a los diseños, ya que puede aplicar efectos, retoques y transformaciones a cada capa de manera independiente. Ahora, se invita a ver el siguiente video, donde podrá observar de manera más práctica el uso de esta importante herramienta:
@@ -97,7 +97,7 @@
             p A continuación, observe el video <b>Capas</b>, con el fin de que tenga una mayor contextualización de la forma de utilización que esta herramienta le brinda.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ymSqw_W2vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/LGnWfizDQ80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .texto-adorno.bg--2.px-4.py-2.mb-5(data-aos="fade-right")
       h4.mb-0.me-3 Herramienta pincel
     p.mb-5 Otra de las herramientas importantes para un diseñador, esta herramienta a su interior se subdivide en cuatro herramientas más que se exponen de manera más detallada en el video que sigue a continuación: 
@@ -204,7 +204,7 @@
             p  El perfil de color CMYK, está fundamentado en la sustracción del blanco, implementando para esto la mezcla de pigmentos, se denomina síntesis sustractiva. Los colores primarios en este modo de color son CIAN, MAGENTA, AMARILLO y NEGRO representados con la sigla (CMYK). Es importante entender que este modo de color se implementa para elementos gráficos que van a ser impresos sobre un sustrato.
               br
               br
-              | Las imágenes en CMYK poseen 32 bits por cada pixel, utilizando cuatro canales de información, uno correspondiente a cada color. Por otra parte, cuando se vaya a implementar cualquier formato de impresión, como una revista, un catálogo, un póster, un folleto, se deben utilizar el modelo CMYK, pues todas las máquinas de impresión están basadas en modos de color CMYK, ya sea impresión digital o impresión offset.
+              | Las imágenes en CMYK poseen 32 bits por cada pixel, utilizando cuatro canales de información, uno correspondiente a cada color. Por otra parte, cuando se vaya a implementar cualquier formato de impresión, como una revista, un catálogo, un póster, un folleto, se deben utilizar el modelo CMYK, pues todas las máquinas de impresión están basadas en modos de color CMYK, ya sea impresión digital o impresión <i>offset</i>.
           .col-md-4
             .imagen-adornos-flotantes
               img(src="@/assets/curso/10.jpg" alt="Adornos flotantes")
@@ -248,7 +248,7 @@
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             .h4 Modo de color indexado
-            p En el modo de color el indexado hace referencia a archivos con imágenes de 8 bits con el rango máximo de 256 colores. Cuando se convierte a color indexado Photoshop crea una tabla de colores específica que agrupa y crea el índice de los colores de la imagen. Es usualmente utilizado para disminuir los tamaños de archivos, conservando la calidad visual, por ejemplo en páginas web o en temas de multimedia.
+            p En el modo de color el indexado hace referencia a archivos con imágenes de 8 bits con el rango máximo de 256 colores. Cuando se convierte a color indexado Photoshop crea una tabla de colores específica que agrupa y crea el índice de los colores de la imagen. Es usualmente utilizado para disminuir los tamaños de archivos, conservando la calidad visual, por ejemplo en páginas <i>web</i> o en temas de multimedia.
           .col-md-4
             .imagen-adornos-flotantes
               img(src="@/assets/curso/14.jpg" alt="Adornos flotantes")
@@ -488,7 +488,7 @@
       .col-lg-2: img(src="@/assets/curso/34.svg" style="width: 201px").m-auto.mb-3.mb-lg-0
       .col-lg-7.col-
         h5  Herramienta pluma:
-        p.mb-0 De acuerdo con el portal Desarrollo web (2019), esta herramienta es muy útil, sirve para hacer diferentes trazados y múltiples cosas en las imágenes. Lo bueno es que permite editar los trazados una vez hechos y que pueden ajustarse a cualquier recorrido que se necesite, por complejo que sea. Para conocer más acerca de esta herramienta, se sugiere revisar el siguiente video:
+        p.mb-0 De acuerdo con el portal Desarrollo <i>web</i> (2019), esta herramienta es muy útil, sirve para hacer diferentes trazados y múltiples cosas en las imágenes. Lo bueno es que permite editar los trazados una vez hechos y que pueden ajustarse a cualquier recorrido que se necesite, por complejo que sea. Para conocer más acerca de esta herramienta, se sugiere revisar el siguiente video:
     .bg--2-claro2.position-relative.p-3.mb-5
       img.position-absolute.d-none.d-lg-block(src="@/assets/curso/4.svg" alt="Adornos flotantes" style="left: 2% ; top: -10%; width: 132px ")
       .row.justify-content-end 
@@ -502,7 +502,7 @@
       .col-lg-2: img(src="@/assets/curso/35.svg" style="width: 201px").m-auto.mb-3.mb-lg-0
       .col-lg-7.col-
         h5 Herramienta rectángulo
-        p.mb-0 Continuando con lo que se menciona en portal web Desarrollo web (2019) el rectángulo sirve para hacer rectángulos que pueden estar o no rellenos de color. En el lugar donde está el rectángulo hay otra serie de herramientas para hacer otros tipos de formas, como elipses, líneas o incluso formas personalizadas.
+        p.mb-0 Continuando con lo que se menciona en portal <i>web</i> Desarrollo <i>web</i> (2019) el rectángulo sirve para hacer rectángulos que pueden estar o no rellenos de color. En el lugar donde está el rectángulo hay otra serie de herramientas para hacer otros tipos de formas, como elipses, líneas o incluso formas personalizadas.
     p.mb-5 Selecciones cuadradas o rectangulares - Selecciones circulares o elípticas 
     .row.mb-5
       .col-lg-6

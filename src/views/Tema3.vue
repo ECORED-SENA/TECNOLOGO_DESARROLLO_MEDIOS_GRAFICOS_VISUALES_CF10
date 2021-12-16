@@ -6,7 +6,7 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 3
-        h1 Software de revelado y tratamiento
+        h1 <i>Software</i> de revelado y tratamiento
     .row.mb-5.align-items-center
       .col-lg-7(data-aos="fade-right")
         p.mb-3 Adobe Photoshop Lightroom, es un programa de fotografía desarrollado por Adobe Systems para Mac OS X y Microsoft Windows, diseñado para ayudar a fotógrafos profesionales y aficionados en el tratamiento de imágenes digitales y trabajos de posproducción. No se trata de un navegador de archivos como Adobe Bridge, sino más bien de una organización de imágenes la cual ayuda a visualizar, editar y gestionar fotos digitales (incluidas las copias de seguridad en DVD).
@@ -84,12 +84,12 @@
                 img(src='@/assets/curso/52.png', alt='Texto que describa la imagen')
             .col-md-10.mb-4.mb-md-0
               p Aquí se permite definir varias opciones de impresión.
-          .row(titulo="Web").px-5.align-items-center
+          .row(titulo="<i>Web</i>").px-5.align-items-center
             .col-md-2
               figure
                 img(src='@/assets/curso/52.png', alt='Texto que describa la imagen')
             .col-md-10.mb-4.mb-md-0
-              p Ayuda a la creación automática de galerías de fotos para web. 
+              p Ayuda a la creación automática de galerías de fotos para <i>web</i>. 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.2 Interfaz de usuario
     p.mb-5 La interfaz de Lightroom tiene una forma especial en cuanto a su distribución de paneles, muy fácil de utilizar para la optimización del flujo de trabajo, para cada fase del proceso se encuentran las herramientas que se van a necesitar de manera muy simple. Se compone de siete módulos que son: 
@@ -128,7 +128,7 @@
         .tarjetas-icono__img.bg--2.hover-bg--4.p-4.mb-2(style='border-radius: 30px;')
           img(src='@/assets/curso/59.svg', alt='Texto que describa la imagen' style='width: 91px').m-auto
         .tarjetas-icono__text
-          h5.text-center Web
+          h5.text-center <i>Web</i>
     p.mb-5 La interfaz de usuario de cada uno de estos módulos está siempre organizada por cinco paneles, lo que se podrán comprender mucho mejor a través del siguiente video:
     .bg--2-claro2.position-relative.p-3.mb-5
         img.position-absolute.d-none.d-lg-block(src="@/assets/curso/4.svg" alt="Adornos flotantes" style="left: 2% ; top: -10%; width: 132px ")
