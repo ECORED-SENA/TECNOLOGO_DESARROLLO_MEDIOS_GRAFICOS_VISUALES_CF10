@@ -121,7 +121,7 @@
           p A continuación, observe el video tutorial para creación de documentos, con el fin de que tenga una mayor contextualización de este tema revíselo con atención y podrá observar cómo crear un documento y los numerosos ajustes que se pueden realizar en un documento en blanco en esta herramienta.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ymSqw_W2vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Bs_zHEm7i7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     #t_1_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.3 Modos de color y su aplicación
     .row.mb-5.align-items-center
