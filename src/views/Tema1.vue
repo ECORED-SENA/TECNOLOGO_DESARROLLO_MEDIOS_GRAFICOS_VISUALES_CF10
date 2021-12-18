@@ -359,7 +359,7 @@
     p.mb-5 Gracias a la gama de herramientas que posee Photoshop, se pueden realizar retoques desde los más sencillos hasta temas más avanzados. En el panel de clonación, en el panel superior ventana, en la opción origen de clonación, para las herramientas tampón clonar y pincel corrector, se logra establecer hasta cinco (5) orígenes de muestra y se puede utilizar rápidamente el que requiera sin necesidad de volver a muestrear cada vez que necesite cambiar a un origen diferente. Aquí se expone lo que se puede hacer con esta herramienta:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ymSqw_W2vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ttOLHWK_1Lg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     #t_1_8.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2  1.8 Selección y máscaras
     .row.mb-5.justify-content-center

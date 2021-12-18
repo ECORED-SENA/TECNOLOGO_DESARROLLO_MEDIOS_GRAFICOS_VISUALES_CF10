@@ -138,7 +138,7 @@
             p A continuación, observe el video <b>tutorial Interfaz de Lightroom</b>, para una mejor contextualización de su importancia, sus módulos y paneles, entre otros elementos.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ymSqw_W2vzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/aCMi3ETXvnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.3 Espacio de trabajo
     p.mb-5 El espacio de trabajo de <b>Lightroom Classic</b>, se puede decir que es un grupo de herramientas especializadas para el tratamiento de fotografías a nivel profesional y que se organizan en módulos. Cada módulo describe una etapa concreta en el desarrollo de flujo en la fotografía. En el módulo biblioteca se realiza la importación de las imágenes, así mismo se organizan, se comparan y seleccionan las fotografías. Ya en el módulo revelar se hacen ajustes de color y tonos o también realizar funciones de ajustes creativos. Siendo así, lo invitamos a conocer los paneles desplegables:
