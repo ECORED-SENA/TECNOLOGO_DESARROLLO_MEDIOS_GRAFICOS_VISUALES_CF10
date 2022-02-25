@@ -285,14 +285,14 @@
         .titulo-sexto.color-acento-botones.m-auto
           h5.text-center Figura 1
         .imagen-adornos-flotantes
-          img(src="@/assets/curso/67.jpg" alt="Adornos flotantes")
+          img(src="@/assets/curso/68.jpg" alt="Adornos flotantes")
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: 10% ; right: ; top:0 ; bottom: ; width: 60px ")
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float3.png" style="left: 15% ; right: ; top: ; bottom: 5% ; width: 60px ")
       .col-lg-6(data-aos="fade-left")
         .titulo-sexto.color-acento-botones.m-auto
           h5.text-center Figura 2
         .imagen-adornos-flotantes
-          img(src="@/assets/curso/68.jpg" alt="Adornos flotantes")
+          img(src="@/assets/curso/67.jpg" alt="Adornos flotantes")
           .imagen-adornos-flotantes__img: img(src="@/assets/curso/float5.png" style="left: ; right: 2% ; top: ; bottom: 10% ; width: 90px ")
     p.mb-5 Es importante tener presente que en el módulo (biblioteca) hay una opción de revelado rápido como se observa en la siguiente imagen, esto es fundamental para evitar confusiones.
     .row.mb-5.justify-content-center
@@ -396,7 +396,7 @@
         span.visually-hidden Next
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.5 Presentación
-    p.mb-5 El módulo de biblioteca es crucial en el flujo de trabajo, pues es donde se organizan, ordenan, comparan y se clasifican las fotografías de catálogo; así como se puede observar en la siguiente imaPara la organización de presentaciones en Lightroom, se realiza en el módulo proyecciones de diapositivas, aquí se pueden organizar las plantillas de composición, definir las transiciones y los ajustes de reproducción. En los paneles a la izquierda está la lista de plantillas y previsualizaciones de composiciones. En el espacio central en la vista del editor de diapositivas muestra las fotografías en la plantilla de diapositivas seleccionadas. En la siguiente figura se observa cómo se describen los paneles del módulo proyecciones:
+    p.mb-5 El módulo de biblioteca es crucial en el flujo de trabajo, pues es donde se organizan, ordenan, comparan y se clasifican las fotografías de catálogo; así como se puede observar en la siguiente imagen para la organización de presentaciones en Lightroom, se realiza en el módulo proyecciones de diapositivas, aquí se pueden organizar las plantillas de composición, definir las transiciones y los ajustes de reproducción. En los paneles a la izquierda está la lista de plantillas y previsualizaciones de composiciones. En el espacio central en la vista del editor de diapositivas muestra las fotografías en la plantilla de diapositivas seleccionadas. En la siguiente figura se observa cómo se describen los paneles del módulo proyecciones:
     .row.mb-5.align-items-center
       .col-lg-5.mt-lg-0.mt-3(data-aos="fade-left")
         .imagen-adornos-flotantes
