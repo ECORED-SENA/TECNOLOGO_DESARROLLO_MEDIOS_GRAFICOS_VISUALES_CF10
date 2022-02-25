@@ -13,13 +13,13 @@
         .tarjeta.bg--4-claro2.p-4.mb-5
           LineaTiempoC.color-acento-contenido(text-small)
             .row(titulo="1").justify-content-center.align-items-center
-              .col-md-4
+              .col-md-6
                 figure
                   img(src='@/assets/curso/80.jpg', alt='Texto que describa la imagen')
               .col-md-6.mb-4.mb-md-0
                 p Una vez se tiene la imagen en la mesa de trabajo, en el panel capas se debe cambiar el nombre de la capa por defecto con el nombre background haciendo doble clic en esta. 
             .row(titulo="2").justify-content-center.align-items-center
-              .col-md-4
+              .col-md-6
                 figure
                   img(src='@/assets/curso/81.jpg', alt='Texto que describa la imagen')
               .col-md-6.mb-4.mb-md-0
@@ -28,70 +28,70 @@
               .col-md-6.mb-4.mb-md-0
                 p Luego, en la pestaña Selección se hace clic y en la opción Seleccionar y aplicar máscara nuevamente se hace clic, como lo muestra la siguiente imagen: 
             
-              .col-md-4
+              .col-md-6
                 figure
                   img(src='@/assets/curso/82.jpg', alt='Texto que describa la imagen')
             .row(titulo="4").justify-content-center.align-items-center
               .col-md-6.mb-4.mb-md-0
                 p Ahora, en el panel de propiedades que aparece, se da Seleccionar (Ver-En negro). Seguidamente en la barra de herramientas a la izquierda de la mesa de trabajo, se ubica la herramienta selección rápida y se ajusta el tamaño. 
             
-              .col-md-4
+              .col-md-6
                 figure
                   img(src='@/assets/curso/83.jpg', alt='Texto que describa la imagen')
             .row(titulo="5").justify-content-center.align-items-center
               .col-md-6.mb-4.mb-md-0
                 p Luego, se pinta dentro de la taza de café y se hace clic.
             
-              .col-md-4
+              .col-md-6
                 figure
                   img(src='@/assets/curso/84.jpg', alt='Texto que describa la imagen')
             .row(titulo="6").justify-content-center.align-items-center
               .col-md-6.mb-4.mb-md-0
                 p Una vez realizado este proceso de selección se prosigue a añadir una máscara de capa haciendo doble clic en el icono Añadir máscara de capa. Aquí la máscara de capa se indica mediante un agujero blanco donde antes se pintó con la herramienta pincel en la taza de café. En la siguiente imagen se visualiza este proceso.
             
-              .col-md-4
+              .col-md-6
                 figure
                   img(src='@/assets/curso/85.jpg', alt='Texto que describa la imagen')
             .row(titulo="7").justify-content-center.align-items-center
               .col-md-6.mb-4.mb-md-0
                 p Continuando con el proceso, se abre una imagen nueva y su referencia es (Olas en el océano), esto con el fin de agregarla en el archivo de la taza de café, seguidamente se elige (Seleccionar-Todo) y luego copiar. Después se cambia la selección por la capa (taza de café) y se da la opción pegar.
             
-              .col-md-4
+              .col-md-6
                 figure
                   img(src='@/assets/curso/86.jpg', alt='Texto que describa la imagen')
             .row(titulo="8").justify-content-center.align-items-center
               .col-md-6.mb-4.mb-md-0
                 p Acto seguido se crea una máscara de recorte para proceder a recortar la imagen (olas en el océano), (capa 1), según la máscara de la capa inferior,  luego se pulsa la tecla Alt y se hace clic entre las capas; o también con el botón secuencia en capa 1 y se selecciona (crear) máscara de recorte. En la siguiente imagen se detallan los procedimientos:
             
-              .col-md-4
+              .col-md-6
                 figure
                   img(src='@/assets/curso/87.jpg', alt='Texto que describa la imagen')
             .row(titulo="9").justify-content-center.align-items-center
               .col-md-6.mb-4.mb-md-0
                 p Una vez se seleccione crear máscara de recorte, se hace clic en la imagen del océano y se arrastra para que las olas rellenen la taza de café.
             
-              .col-md-4
+              .col-md-6
                 figure
                   img(src='@/assets/curso/88.jpg', alt='Texto que describa la imagen')
             .row(titulo="10").justify-content-center.align-items-center
               .col-md-6.mb-4.mb-md-0
                 p Luego, se añade una capa de ajuste, se hace clic en el icono añadir nueva capa de ajuste en la parte inferior de la paleta capas y selecciona degradado.
             
-              .col-md-4
+              .col-md-6
                 figure
                   img(src='@/assets/curso/89.jpg', alt='Texto que describa la imagen')
             .row(titulo="11").justify-content-center.align-items-center
               .col-md-6.mb-4.mb-md-0
                 p Posteriormente se elige la muestra de degradado (color frontal a transparente).
             
-              .col-md-4
+              .col-md-6
                 figure
                   img(src='@/assets/curso/90.jpg', alt='Texto que describa la imagen')
             .row(titulo="12").justify-content-center.align-items-center
               .col-md-6.mb-4.mb-md-0
                 p Finalmente, se crea otra máscara de recorte para la capa de ajuste (Capa-crear máscara de recorte).  En la siguiente imagen se observa la composición creada a partir de las herramientas de máscara de capa:
             
-              .col-md-4
+              .col-md-6
                 figure
                   img(src='@/assets/curso/91.jpg', alt='Texto que describa la imagen')
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")

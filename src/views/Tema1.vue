@@ -126,7 +126,7 @@
       h2 1.3 Modos de color y su aplicación
     .row.mb-5.align-items-center
       .col-lg-7(data-aos="fade-right")
-        p.mb-3 Cuando se habla de los modos de color se hace referencia a los diferentes parámetros de una imagen en relación con el número de canales de un modelo de color específico; dicho de otra manera, los modelos de color dependiendo su finalidad. Por ejemplo, si se requiere imprimir un poster, un catálogo o cualquier formato para impresión, se debe implementar el modo de color CMYK y para medios digitales se debe implementar el modelo de color RGB. A continuación, se podrá ampliar la información sobre la aplicación de los modos de color:
+        p.mb-3 Cuando se habla de los modos de color se hace referencia a los diferentes parámetros de una imagen en relación con el número de canales de un modelo de color específico; dicho de otra manera, los modelos de color dependiendo su finalidad. Por ejemplo, si se requiere imprimir un póster, un catálogo o cualquier formato para impresión, se debe implementar el modo de color CMYK y para medios digitales se debe implementar el modelo de color RGB. A continuación, se podrá ampliar la información sobre la aplicación de los modos de color:
       .col-lg-5.mt-lg-0.mt-3(data-aos="fade-left")
         .imagen-adornos-flotantes
           img(src="@/assets/curso/5.jpg" alt="Adornos flotantes")
@@ -176,7 +176,7 @@
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             h4 Aplicación
-            p Para utilizar los diferentes modos de color en Photoshop se ingresa como se observa en la siguiente figura, en el menú superior en Imagen, Modo de color está la lista de opciones, y dependiendo del proyecto que se vaya a realizar se aplicará el modelo de color. Por ejemplo, si es una imagen para impresión se debe aplicar el modo de color CMYK. Dicho en otras palabras, es importante comprender la naturaleza de cada modelo de color para su implementación.
+            p Para utilizar los diferentes modos de color en Photoshop se ingresa como se observa en la siguiente figura, en el menú superior en Imagen, Modo de color está en la lista de opciones, y dependiendo del proyecto que se vaya a realizar se aplicará el modelo de color. Por ejemplo, si es una imagen para impresión se debe aplicar el modo de color CMYK. Dicho en otras palabras, es importante comprender la naturaleza de cada modelo de color para su implementación.
           .col-md-4
             .imagen-adornos-flotantes
               img(src="@/assets/curso/7.jpg" alt="Adornos flotantes")
@@ -190,7 +190,7 @@
             p Los modelos de color  RGB, se implementan dependiendo el sistema utilizado; la implementación de 24 bits, limita a un rango de 256 x 256 x 256 x 16,7 millones de colores, lo que genera trabajar con espacios de color de alta gama, estos espacios se aplican a cualquier espacio de color basado en este modelo, pero se implementa en diferentes profundidades de bits.  Algunos espacios de color basados en RGB son, el sRGB, Adobe RGB y ProPhoto RGB. 
               br
               br
-              |Este es uno de los más habituales actualmente, pensado principalmente para la edición de fotografías de forma profesional, por eso su nombre AdobeRGB, ya que fueron ellos los desarrolladores.
+              |Este es uno de los más habituales actualmente, pensado principalmente para la edición de fotografías de forma profesional, por eso su nombre Adobe RGB, ya que fueron ellos los desarrolladores.
           .col-md-4
             .imagen-adornos-flotantes
               img(src="@/assets/curso/9.jpg" alt="Adornos flotantes")
@@ -226,7 +226,7 @@
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
             .h4 Modo de escala de grises
-            p Este modo de color tiene la particularidad de implementar diferentes escalas de gris en una imagen, las imágenes en modo de color gris varían en una escala de o a 255, donde 0 es negro y 255 es blanco, Este modo de color también puede ser medible en una escala de 0% y 100% en el modo CMYK.
+            p Este modo de color tiene la particularidad de implementar diferentes escalas de gris en una imagen, las imágenes en modo de color gris varían en una escala de o a 255, donde 0 es negro y 255 es blanco, Este modo de color también puede ser medible en una escala de 0 % y 100 % en el modo CMYK.
           .col-md-4
             .imagen-adornos-flotantes
               img(src="@/assets/curso/12.jpg" alt="Adornos flotantes")
@@ -333,7 +333,7 @@
         p.mb-3 El término píxel es la abreviatura de “elemento de imagen”, y los píxeles son los pequeños bloques de construcción que componen todas las imágenes digitales. Al igual que una pintura está hecha de pinceladas individuales, una imagen digital está hecha de píxeles individuales.
           br
           br
-          |En Photoshop, cuando se ve una imagen con un nivel de zoom normal (100% o menos), los píxeles suelen ser demasiado pequeños para notarlo, a diferencia de lo que parece una imagen continua, con luz, sombras, colores y texturas que se mezclan para crear una escena que se parece mucho a la del mundo real. 
+          |En Photoshop, cuando se ve una imagen con un nivel de zoom normal (100 % o menos), los píxeles suelen ser demasiado pequeños para notarlo, a diferencia de lo que parece una imagen continua, con luz, sombras, colores y texturas que se mezclan para crear una escena que se parece mucho a la del mundo real. 
           br
           br
           |En cuanto al tamaño de la imagen, se refiere al ancho y alto de esta en píxeles. También se refiere al número total de píxeles de la imagen, pero en realidad es el ancho y la altura lo que debe preocupar.
@@ -352,7 +352,7 @@
           .tarjeta-hover__img(:style="{'background-image': `url(${require('@/assets/curso/21.jpg')})`}")
       .col-lg-5.mb-3
         .tarjeta-hover.tarjeta.bg--4.p-5.hover-flip.hover.h-100.hover-bg--2(@mouseover="mostrarIndicador= false")
-          p El ancho y el alto de una imagen, en píxeles, se conocen como sus dimensiones de los píxeles y en Photoshop CC, podemos verlos junto a la palabra Dimensiones cerca de la parte superior del cuadro de diálogo. Aquí vemos que la imagen tiene un ancho de 4509 píxeles (px) y un alto de 3000 píxeles.
+          p El ancho y el alto de una imagen, en píxeles, se conocen como sus dimensiones de los píxeles y en Photoshop CC, podemos verlos junto a la palabra Dimensiones cerca de la parte superior del cuadro de diálogo. Aquí vemos que la imagen tiene un ancho de 4441 píxeles (px) y un alto de 2961 píxeles.
           .tarjeta-hover__img(:style="{'background-image': `url(${require('@/assets/curso/22.jpg')})`}")
     #t_1_7.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.7 Herramientas de corrección y retoque 
@@ -410,7 +410,7 @@
         .row
           .col-lg-7
             h4 Rutas
-            p La interfaz de Photoshop ofrece varias rutas para utilizar el ajuste de equilibrio de color, una de ellas es por el menú superior en la opción imagen, ajustes, allí se abre un panel con varias opciones de coloración como se visualiza en las imagen.
+            p La interfaz de Photoshop ofrece varias rutas para utilizar el ajuste de equilibrio de color, una de ellas es por el menú superior en la opción imagen, ajustes, allí se abre un panel con varias opciones de coloración como se visualiza en la imagen.
           .col-lg-5
             .imagen-adornos-flotantes
               img(src="@/assets/curso/28.jpg" alt="Adornos flotantes")
@@ -424,7 +424,7 @@
             p La herramienta de tono y saturación es otra opción que brinda Photoshop para realizar ajustes de color en una imagen. Con esta herramienta se puede ajustar el tono, la saturación y luminosidad de un color especifico o de toda la gama de color si se desea. Esta herramienta funciona muy bien para modos de color CMYK. A continuación se describe cómo se utiliza esta herramienta:  
               br
               br
-              |En el menú superior en capa-nueva capa de ajuste-tono y saturación, luego se da click en ok y se abre un panel de diálogo y en el icono de tono y ajustes, nuevamente se da click; aquí se observa la ruta por la opción del menú superior en capas y ajustes, donde se encuentra la herramienta, pero la interfaz de Photoshop se ajusta a diversas formas de ubicar una herramienta, es decir, tiene varias rutas. 
+              |En el menú superior en capa-nueva capa de ajuste-tono y saturación, luego se da clic en ok y se abre un panel de diálogo y en el icono de tono y ajustes, nuevamente se da clic; aquí se observa la ruta por la opción del menú superior en capas y ajustes, donde se encuentra la herramienta, pero la interfaz de Photoshop se ajusta a diversas formas de ubicar una herramienta, es decir, tiene varias rutas. 
           .col-lg-5
             .imagen-adornos-flotantes
               img(src="@/assets/curso/29.jpg" alt="Adornos flotantes")
@@ -460,7 +460,7 @@
             p Los filtros son unas herramientas esenciales en el programa de Photoshop, pues se utilizan para editar y retocar imágenes, también sirven para generar efectos especiales que mejoren la fotografía, otro aspecto importante es el de la iluminación; estos filtros se encuentran en el menú superior en la opción *Filtro. 
               br
               br
-              |Estos vienen predeterminados pero se pueden ajustar a lo que se desee, simplemente basta con ir al menú, opción filtros y luego galería de filtros; allí se encuentra una variedad de filtros como: artísticos, bosquejar, distorsionar, estilizar, textura, trazos de pincel entre otros. En las imágenes que se exponen a continuación, se observa un ejemplo de como se ha generado un filtro en cada una de las imágenes del gato.
+              |Estos vienen predeterminados pero se pueden ajustar a lo que se desee, simplemente basta con ir al menú, opción filtros y luego galería de filtros; allí se encuentra una variedad de filtros como: artísticos, bosquejar, distorsionar, estilizar, textura, trazos de pincel entre otros. En las imágenes que se exponen a continuación, se observa un ejemplo de como se ha generado un filtro en cada una de las imágenes del buho.
           .col-lg-5
             .imagen-adornos-flotantes
               img(src="@/assets/curso/32.jpg" alt="Adornos flotantes")

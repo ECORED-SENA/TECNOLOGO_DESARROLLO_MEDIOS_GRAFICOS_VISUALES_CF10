@@ -54,7 +54,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.5',
-            titulo: 'Monocromo, duotono y tritono',
+            titulo: 'Monocromo, duotono, tritono, cuatritono',
             hash: 't_1_5',
           },
           {
@@ -161,7 +161,7 @@ export default {
       {
         icono: 'fas fa-sitemap',
         titulo: 'Sintesis',
-        nombreRuta: 'sintesis',
+        nombreRuta: 'síntesis',
       },
       {
         nombreRuta: 'actividad',

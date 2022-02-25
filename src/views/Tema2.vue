@@ -17,7 +17,7 @@
         p Se denominan plataformas de desarrollo nativas a las aplicaciones que se desarrollan con características propias para cada sistema operativo como iOS, Android o Windows Phone, así es como se adapta el lenguaje de desarrollo a cada sistema operativo. Para Android se implementa el lenguaje Java, para iOS se usa el lenguaje Objective-C y para Windows Phone .Net.
           br
           br
-          |Haciendo una comparación o analizando cada lenguaje en estas clases de apps, se puede decir que aprovechan la mayoría de funciones de los dispositivos, también tiene una característica muy favorable por que se pueden utilizar offline. Una de sus debilidades es que los procesos de actualización se tornan costosos. 
+          |Haciendo una comparación o analizando cada lenguaje en estas clases de apps, se puede decir que aprovechan la mayoría de funciones de los dispositivos, también tiene una característica muy favorable porque se pueden utilizar offline. Una de sus debilidades es que los procesos de actualización se tornan costosos. 
       .tarjeta.bg--2-claro.p-3(x="67%" y="30%" numero="")
         .h5.mb-2 Híbridas
         p Estas aplicaciones reciben este nombre ya que fusionan aspectos de las nativas y de aplicaciones <i>web</i> con finalidades específicas. Estas aplicaciones son desarrolladas a partir de lenguajes de programación CSS y HTML, esto las hace versátiles ya que se logran adaptar a cualquier sistema operativo y permiten el acceso a todas las funcionalidades de los dispositivos.
